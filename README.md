@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parth-github
+- 👋 Hi, *** Smriti Snigdha Pal ***
 - 👀 I’m interested in Python, SQL, ETL, Data Warehousing and Data Driven Technologies
 - 🌱 I’m currently learning Serverless API in AWS
 - 💞️ I’m looking to collaborate on Data Engineering Projects
